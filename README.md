@@ -1,5 +1,11 @@
-LaTeX-report-template-CERN
-==========================
+LaTeX-report-template-CERN-2017
+===============================
+
+Updated August 2017 to use the new colorful Openlab logo and overall format.
+
+Presentation is not updated yet!
+
+-----
 
 Template in LaTeX for openlab Summer Student report and presentation at CERN.  
 Please bear with me through all the `README` file as this will ease all the process.
